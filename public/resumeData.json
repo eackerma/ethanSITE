@@ -1,8 +1,8 @@
 {
   "main": {
-    "name":"Hi Romina",
-    "description":"I am sound engineer and GIS analyst based in Guanjuato City",
-    "bio":"Previously lived and worked in Portland OR at the Shiatsu Center, Oregon State Marine Board and Nugz Farm",
+    "name":"Ethan Ackerman",
+    "description":"I am a working as a sound engineer and GIS analyst based in Guanjuato City",
+    "bio":"Graduated from Macalester College (20) with a double major in Chinese and Geography. Previously worked from the Shiatsu center, Oregon State Marine Board and Nugz Farm",
     "contactmessage":"You can contact me through this website",
     "email": "ackermanethan@hotmail.com",
     "phone": "503-954-4885",
@@ -48,10 +48,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Macalester College?",
+        "degree":"Chinese and Geography",
+        "graduated":"May 2020",
+        "description":"Multidisciplined, what useful skills you have acquired etc."
       },
       {
         "school":"School #1 Maybe College?",
