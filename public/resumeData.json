@@ -8,34 +8,16 @@
     "phone": "503-954-4885",
     "github":"https://github.com/eackerma",
     "project":"https://www.youtube.com/channel/UC0yvd_xmhDiNgVAFx3wXPlg?app=desktop",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"hhttps://www.facebook.com/ethan.ackerman.351/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ethan-ackerman-562a7413a/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -45,7 +27,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am experienced as a GIS analyst, sound engineer and online english teacher",
+    "skillmessage":"I am experienced creating maps and conducting geospatial solution using ESRI and open source software such as QGIS. Isound engineer and online english teacher",
     "education":[
       {
         "school":"Macalester College?",
@@ -68,11 +50,30 @@
         "description":"Studied under a certifed and profesional Shiatsu pro. Administrative work and working hands on with clients with upper back and shoulder pain."
       },
       {
+        "company":"Private English Teacher",
+        "title":"Teacher",
+        "years":"Jun 2020 - Present",
+        "description":"College writing, and English oral exam preparation."
+      },
+      {
+        "company":"Portland Kayak Company",
+        "title":"Rental Associate",
+        "years":"Aug 2022 - Oct 2022",
+        "description":"Managed a 100+ boat rental operation. Gave tours to individuals, small groups and company events. 3 months."
+      },
+      {
         "company":"Oregon State Marine Board",
         "title":"Portland Waterway and Outreach Coordinator",
         "years":"Jul 2021 - Dec 2021",
-        "description":"Created online maps and web pages in ESRI and J. Educated boaters on docks of new rules on wakes on the Willamette river."
+        "description":"Created online maps and web pages in ESRI. Educated boaters on docks of new rules on wakes on the Willamette river."
+      },
+      {
+        "company":"MGGG at Tufts and MIT",
+        "title":"Cartography Fellow",
+        "years":"Jun 2018 - Aug 2018",
+        "description":"Research on redistricting. Collaborated on GerryChain, a Geospatial Python library to analyze redistricting plans. github.com/mggg/GerryChain"
       }
+      
     ],
     "skills":[
       {
@@ -97,7 +98,7 @@
       },
       {
         "name":"Communications",
-        "level":"90"
+        "level":"10"
       },
       {
         "name":"JAVA",
