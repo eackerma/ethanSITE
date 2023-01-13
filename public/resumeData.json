@@ -27,7 +27,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am experienced creating maps and conducting geospatial solution using ESRI and open source software such as QGIS. Isound engineer and online english teacher",
+    "skillmessage":"I am experienced creating maps and conducting geospatial solution using ESRI and QGIS, sound engineer and online english teacher",
     "education":[
       {
         "school":"Macalester College?",
@@ -48,12 +48,6 @@
         "title":"Intern",
         "years":"Dec 2021 - Nov 2022",
         "description":"Studied under a certifed and profesional Shiatsu pro. Administrative work and working hands on with clients with upper back and shoulder pain."
-      },
-      {
-        "company":"Private English Teacher",
-        "title":"Teacher",
-        "years":"Jun 2020 - Present",
-        "description":"College writing, and English oral exam preparation."
       },
       {
         "company":"Portland Kayak Company",
