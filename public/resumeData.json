@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Ethan Ackerman",
-    "description":"I am a working as a sound engineer and GIS analyst based in Guanjuato City",
-    "bio":"Graduated from Macalester College (20) with a double major in Chinese and Geography. Previously worked from the Shiatsu center, Oregon State Marine Board and Nugz Farm",
-    "contactmessage":"You can contact me through this website",
+    "description":"I am a sound engineer, GIS analyst and teacher based in Guanjuato City",
+    "bio":"Graduated from Macalester College Class of 2020 with a double major in Chinese and Geography. Previous exerience as a private sector consultant in the legal Cannabis industry and working in the public sector with the Oregon State Marine Board.",
+    "contactmessage":"If you are interested in working together you can contact me below",
     "email": "ackermanethan@hotmail.com",
     "phone": "503-954-4885",
     "github":"https://github.com/eackerma",
@@ -45,71 +45,65 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am experienced as a GIS analyst, sound engineer and online english teacher",
     "education":[
       {
         "school":"Macalester College?",
         "degree":"Chinese and Geography",
         "graduated":"May 2020",
-        "description":"Multidisciplined, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Studied Human Geography combined with GIS to analyze complex geospatial problems such as food deserts, famines, public health and global supply chains."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Nugz Farms",
+        "title":"Consultant",
+        "years":"Jan 2022 - Nov 2022",
+        "description":"Cannabis sales and digital marketing consultant. Relationship building with over 100 clients in a heavily flooded market in Oregon. Created digital advertisements to promote products, digital content creation and photogrpahy to boost sales of Nugz farms. "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Shiatsu Center",
+        "title":"Intern",
+        "years":"Dec 2021 - Nov 2022",
+        "description":"Studied under a certifed and profesional Shiatsu pro. Administrative work and working hands on with clients with upper back and shoulder pain."
       }
     ],
     "skills":[
       {
         "name":"Python",
+        "level":"45%"
+      },
+      {
+        "name":"Teaching English",
+        "level":"75%"
+      },
+      {
+        "name":"QGIS",
+        "level":"75%"
+      },
+      {
+        "name":"ESRI Suite",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"Ableton Live Suite",
+        "level":"75%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Communications",
+        "level":"90"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"45%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Robin Banx Youtube Channel ",
+        "category":"Digitized, remastered and published R&B, Hip Hop, folk and rock & roll productions for the Good Friends label based in Portland, Oregon.",
         "image":"01.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
